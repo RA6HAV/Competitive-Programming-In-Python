@@ -1,0 +1,1 @@
+# You are given three integer angles, tell wether the triangle
